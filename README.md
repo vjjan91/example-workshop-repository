@@ -1,2 +1,3 @@
 # example-repository-for-sccs
-Appropriate description of what this repository intends to do
+
+This repository was created to demonstrate how we could edit the README.md
