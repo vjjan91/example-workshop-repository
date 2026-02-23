@@ -1,4 +1,4 @@
-# example-repository-for-sccs
+# example-repository
 
 This repository was created to demonstrate how we could edit the README.md
 
